@@ -1,0 +1,9 @@
+a
+~a
+a v b
+a <=> AX[a]
+true => true
+A[A[a U b] U c]
+A[a U b] ^ EG[b]
+E[a U ~E[a U b]]
+E[true U ~E[true U ~p]]

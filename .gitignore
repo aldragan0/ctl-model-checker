@@ -1,0 +1,11 @@
+out/
+.classpath
+.project
+.settings
+.idea/
+.bloop/
+.metals/
+null/
+/target
+/project
+.DS_Store
